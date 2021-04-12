@@ -1,0 +1,14 @@
+[
+  {
+    "productId": 1,
+    "description": "Default 01",
+    "price": 0,
+    "portInUse": "0"
+  },
+  {
+    "productId": 2,
+    "description": "Default 02",
+    "price": 0,
+    "portInUse": "0"
+  }
+]
